@@ -1,5 +1,7 @@
 # CodeGPT.nvim
 
+Project moved to [codegpt-ng](https://github.com/blob42/codegpt-ng.nvim).
+
 CodeGPT is a plugin for neovim that provides commands to interact with ChatGPT. The focus is around code related usages. So code completion, refactorings, generating docs, etc.
 
 This is a fork of the original repository of @dpayne which disappeared.
